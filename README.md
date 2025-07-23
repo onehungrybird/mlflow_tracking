@@ -1,3 +1,4 @@
+```
 project/
 │
 ├── .github/                         # GitHub Actions workflows for CI/CD
@@ -61,3 +62,4 @@ project/
 ├── mlflow_server.sh                 # Script to launch MLflow locally
 ├── README.md                        # ✅ PRO TIP: Add project summary, setup instructions, architecture diagram
 └── .env                             # Secrets and environment vars (never commit)
+```
